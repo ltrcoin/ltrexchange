@@ -1,4 +1,4 @@
-# OpenTrade is the best opensource cryptocurrency exchange!
+# LTR Exchange is a project of LTR Tech Company. 
 
 Live version: https://trade.multicoins.org/
 
